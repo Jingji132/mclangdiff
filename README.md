@@ -1,2 +1,2 @@
 # Language files in Minecraft BE
-Version: 1.16.221 release
+Version: 1.17.0 release
